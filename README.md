@@ -1,1 +1,1 @@
-# Shoe-recomendation
+A smart mobile application built using Flutter that recommends the best shoes based on user preferences, activities, and trends. Whether you're running, walking, training, or just looking for stylish footwear, this app finds the perfect match for you!
